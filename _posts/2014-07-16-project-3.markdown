@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 3
-date: 2022-10-09
-img: wigglyrocket.png
+date: 2026-01-26
+img: pokerfriends.png
 alt: image-alt
-project-date: 2021
+project-date: 2025
 client: Unity
-category: Game Developement
-description: Wiggly rocket is a 3D rapid prototype. Avoid the obstacles and reach the end destination without hitting the ground.
+category: Game Developement, 3rd Party API
+description: Poker Friends is a jackbox inspired poker game. Gather around the TV with friends and avoid the need for large spaces to enjoy some friend competition in the game of Texas hold 'em.
 ---
