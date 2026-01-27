@@ -5,55 +5,66 @@ url: https://swesdkts.github.io
 description: "Game developer and 3D artist with a background in interactive systems, programming, and real-time 3D. Portfolio featuring game development, technical art, and software-related projects."
 keywords: "game development, 3D artist, 3D modeling, game programmer, software development, interactive systems, real-time graphics, technical artist, Unity, C#, programming, game design, tools development, visualization"
 skills: "Game Developer | 3D Artist | Programmer"
-meta_author: Thompson Scott
+meta_author: Scott Thompson
 
-# Google webmaster tools
+# Webmaster tools
 google_verify:
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
+# Contact form
 contact: static
 
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+# Disqus (optional)
+disqus_shortname:
 
-# Color settings (hex-codes without the leading hash-tag)
+# Color settings
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 18bc9c
+  primary-rgb: "24,188,156"
+  secondary: 2c3e50
+  secondary-dark: 233140
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Scott Thompson
   location: Location
   social: Around the Web
-  
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+
+# Social links
 social:
   - title: github
-    url: http://github.com/swesdkts
-    
-# Postal address (add as many lines as necessary)
+    url: https://github.com/swesdkts
+
+# Address
 address:
   - line: Nebraska
-  - line:
 
 # Build settings
 markdown: kramdown
 permalink: pretty
 
-#for posts
+# ----------------------------
+# Collections (IMPORTANT)
+# ----------------------------
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:name/
+
+# ----------------------------
+# Defaults
+# ----------------------------
 defaults:
+  # Blog posts (if you still use them)
   - scope:
       path: ""
       type: "posts"
     values:
-      permalink: ""
+      layout: post
+
+  # Portfolio items
+  - scope:
+      path: ""
+      type: "portfolio"
+    values:
+      layout: portfolio-item
