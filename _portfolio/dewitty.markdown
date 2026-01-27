@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: dewitty
 date: 2026-01-26
 img: DeWitty.png
 alt: image-alt

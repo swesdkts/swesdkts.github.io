@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 3
+modal-id: poker-friends
 date: 2026-01-26
 img: pokerfriends.png
 alt: image-alt

@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 6
+modal-id: the-nail-files
 date: 2022-10-09
 img: TheNailFiles.png
 alt: image-alt
