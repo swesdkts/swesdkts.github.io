@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-date: 10-09-2022
+date: 2022-10-09
 img: towerdefense.png
 alt: image-alt
 project-date: 2022

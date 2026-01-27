@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-date: 10-09-2022
+date: 2022-10-09
 img: TheNailFiles.png
 alt: image-alt
 project-date: September 2022
