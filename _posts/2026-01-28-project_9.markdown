@@ -1,0 +1,17 @@
+---
+layout: default
+title: Hoot Gibson Memorial Rodeo
+modal-id: 9
+date: 2026-01-28
+img: HootGibson.png
+video: 
+alt: Hoot Gibson Webpage image
+project-date: January 2026
+client: css, html
+categories:
+  - web-dev
+  - css
+  - html
+description: >
+  As a school project I built a website for the Non-Profit rodeo that I am on the board of. 
+---
