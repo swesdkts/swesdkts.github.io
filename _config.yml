@@ -43,28 +43,10 @@ address:
 markdown: kramdown
 permalink: pretty
 
-# ----------------------------
-# Collections (IMPORTANT)
-# ----------------------------
-collections:
-  portfolio:
-    output: true
-    permalink: /portfolio/:name/
-
-# ----------------------------
-# Defaults
-# ----------------------------
-defaults:
-  # Blog posts (if you still use them)
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post
-
-  # Portfolio items
-  - scope:
-      path: ""
-      type: "portfolio"
-    values:
-      layout: portfolio-item
+#for posts
+defaults
+ - scope:
+   path: ""
+   type:
+   values:
+   permalink: ""
