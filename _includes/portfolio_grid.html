@@ -4,35 +4,31 @@
     <h2 class="text-center">Portfolio</h2>
     <hr class="star-primary">
 
-    <!-- Game Development -->
     <h3>Game Development</h3>
     <div class="portfolio-flex-row">
-      {% for item in site.portfolio %}
-        {% if item.categories contains "game-dev" %}
-          {% include portfolio-item.html item=item %}
+      {% for post in site.posts %}
+        {% if post.categories contains "game-dev" %}
+          {% include portfolio-item.html post=post %}
         {% endif %}
       {% endfor %}
     </div>
 
-    <!-- Software & Tools -->
     <h3>Software & Tools</h3>
     <div class="portfolio-flex-row">
-      {% for item in site.portfolio %}
-        {% if item.categories contains "software" %}
-          {% include portfolio-item.html item=item %}
+      {% for post in site.posts %}
+        {% if post.categories contains "software" %}
+          {% include portfolio-item.html post=post %}
         {% endif %}
       {% endfor %}
     </div>
 
-    <!-- 3D Art -->
     <h3>3D Art</h3>
     <div class="portfolio-flex-row">
-      {% for item in site.portfolio %}
-        {% if item.categories contains "3d-art" %}
-          {% include portfolio-item.html item=item %}
+      {% for post in site.posts %}
+        {% if post.categories contains "3d-art" %}
+          {% include portfolio-item.html post=post %}
         {% endif %}
       {% endfor %}
     </div>
-
   </div>
-</section>
+</section></section>
