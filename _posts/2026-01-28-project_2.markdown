@@ -4,7 +4,7 @@ title: Descendants of DeWitty
 modal-id: 6
 date: 2026-01-26
 img: DeWitty.png
-video: 
+video: https://www.youtube.com/embed/3AFACNn3a4M?si=33_zftB5WcrgtwPS
 alt: image-alt
 project-date: May 2025
 client: Unity
