@@ -19,17 +19,19 @@
             <hr class="star-primary">
 
             {% if post.video %}
-              <video class="img-responsive img-centered"
-                     controls
-                     preload="metadata">
-               <source src="{{ post.video }}" type="video/mp4">
-                Your browser does not support the video tag.
-              </video>
-            {% else %}
-              <img src="img/portfolio/{{ post.img }}"
-                   class="img-responsive img-centered"
-                   alt="{{ post.alt }}">
-            {% endif %}
+              <div class="embed-responsive embed-responsive-16by9">
+               <iframe
+                 class="embed-responsive-item"
+                 src="{{ post.video }}"
+                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                 allowfullscreen>
+               </iframe>
+             </div>
+           {% else %}
+            <img src="img/portfolio/{{ post.img }}"
+                 class="img-responsive img-centered"
+                 alt="{{ post.alt }}">
+           {% endif %}
 
             {% if post.description %}
               <p>{{ post.description }}</p>
