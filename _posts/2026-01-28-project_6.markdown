@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Nail Files
-modal-id: 2
+modal-id: 6
 date: 2022-10-09
 img: TheNailFiles.png
 video: https://www.youtube.com/embed/VciRlVf_OCk
