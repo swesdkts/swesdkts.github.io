@@ -7,6 +7,7 @@ img: towerdefense.png
 alt: image-alt
 project-date: October 2022
 client: Unity
-category: [game-developement]
+category: 
+ - game-dev
 description: Simple Tower Defense is exactly how it sounds, a simple tower defense game where you need to destroy the enemies before they reach your castle. Each enemy that reaches your castle will subtract 25 gold from your purse when your gold hits 0 you lose the game.
 ---
