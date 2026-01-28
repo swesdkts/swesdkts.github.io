@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 title: Descendants of DeWitty
-modal-id: dewitty
+modal-id: 6
 date: 2026-01-26
 img: DeWitty.png
 video:

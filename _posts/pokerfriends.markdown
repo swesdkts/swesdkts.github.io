@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Poker Friends
+layout: default
+title: 4
 modal-id: poker-friends
 date: 2026-01-26
 img: pokerfriends.png

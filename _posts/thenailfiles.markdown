@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 title: The Nail Files
-modal-id: nail-files
+modal-id: 2
 date: 2022-10-09
 img: TheNailFiles.png
 video: 

@@ -1,6 +1,6 @@
 ---
-layout: post
-title: RPG Sandbox
+layout: default
+title: 3
 modal-id: rpg-sandbox
 date: 2022-10-09
 img: rpgsandbox.png

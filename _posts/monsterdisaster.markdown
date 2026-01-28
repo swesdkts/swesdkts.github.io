@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Monster Disaster
+layout: default
+title: 5
 modal-id: monster-disaster
 date: 2022-10-09
 img: monsterdisaster1.png
