@@ -3,9 +3,9 @@ layout: default
 title: Weather Forecast & Emergency Weather Alerts
 modal-id: 8
 date: 2026-01-28
-img: 
+img: weatherapipy.png
 video: https://www.youtube.com/embed/PSGDwU-n-XE
-alt: Procedural land generator photo
+alt: WeatherAPI application image
 project-date: January 2026
 client: python, postgresql
 categories:
