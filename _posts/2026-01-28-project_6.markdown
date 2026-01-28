@@ -4,7 +4,7 @@ title: The Nail Files
 modal-id: 2
 date: 2022-10-09
 img: TheNailFiles.png
-video: 
+video: https://www.youtube.com/embed/VciRlVf_OCk
 alt: The Nail Files gameplay
 project-date: September 2022
 client: Unity
