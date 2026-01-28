@@ -1,0 +1,17 @@
+---
+layout: default
+title: Weather Forecast & Emergency Weather Alerts
+modal-id: 8
+date: 2026-01-28
+img: 
+video: https://www.youtube.com/embed/PSGDwU-n-XE
+alt: Procedural land generator photo
+project-date: January 2026
+client: python, postgresql
+categories:
+  - software
+  - python
+  - sql
+description: >
+  Weather forecasting app developed using python, SQL, and 3rd party API from the official https://api.weather.gov. Application gives weather forecasts for 14 days for the   searched area as well as it fills an SQL database with all active severe weather alerts where it will display all severe weather alerts for the state that the search is located in.
+---
