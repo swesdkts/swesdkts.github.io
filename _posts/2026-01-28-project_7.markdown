@@ -1,0 +1,15 @@
+---
+layout: default
+title: Procedural Land Generator
+modal-id: 7
+date: 2026-01-28
+img: procedurallandgenerator.png
+video: https://www.youtube.com/embed/zfDe7UG9qAo
+alt: Procedural land generator photo
+project-date: January 2026
+client: Unity
+categories:
+  - game-dev
+description: >
+  Procedural land generator gives the ability to define a landscape size, generates topography, and assigns textures to that topography to give a changing landscape.
+---
