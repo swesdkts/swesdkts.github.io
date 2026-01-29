@@ -9,5 +9,5 @@ project-date: October 2022
 client: Unity
 category: 
  - game-dev
-description: Simple Tower Defense is exactly how it sounds, a simple tower defense game where you need to destroy the enemies before they reach your castle. Each enemy that reaches your castle will subtract 25 gold from your purse when your gold hits 0 you lose the game.
+description: Simple Tower Defense is a small Unity game created to explore foundational tower defense mechanics and AI pathfinding systems. Built while following a guided course, the project focuses on implementing and understanding enemy navigation using algorithms such as A* and Dijkstra, along with basic resource management and win/loss conditions. This project represents an intentional learning exercise aimed at strengthening my understanding of AI movement and game system fundamentals.
 ---

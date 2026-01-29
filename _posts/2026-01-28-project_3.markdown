@@ -10,5 +10,5 @@ client: Unity
 category: 
  - game-dev
 description: > 
- Monster Disaster is a Horror FPS set at an abandoned military facility where alien monster have taken over. You must get to the basement of the abandon facilities while managing your diminishing flashlight and conserve ammunition to defeat any enemies you may encounter along the way.
+ Monster Disaster is a first-person survival horror game set in an abandoned military facility overrun by alien creatures. Built in Unity, the project emphasizes tension-driven gameplay through resource management systems, requiring players to balance limited ammunition and a diminishing flashlight while navigating hostile environments. The game demonstrates my ability to integrate third-party assets into a cohesive experience while designing core gameplay systems, pacing, and environmental storytelling
 ---

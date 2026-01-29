@@ -11,5 +11,5 @@ client: Unity
 category: 
  - game-dev
 description: >
-  This game is in active developement. It is an RPG sandbox at the moment, enemies will patrol and guard areas until player get in range will pursue then resume their task.
+  RPG Sandbox is a top-down prototype built to explore AI pathfinding and finite state machine behavior. The player moves via point-and-click navigation, while enemy guards operate using state-driven logic—patrolling predefined routes, detecting the player through line-of-sight checks, pursuing via optimal pathfinding, and transitioning into a search state when the player is lost before returning to post. This project focuses on AI decision-making, navigation, and systemic behavior rather than content scale.
 ---
