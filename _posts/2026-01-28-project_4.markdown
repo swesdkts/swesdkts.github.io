@@ -11,5 +11,5 @@ client: Unity
 category:
  - game-dev
 description: > 
- Poker Friends is a jackbox inspired poker game. Gather around the TV with friends and avoid the need for large spaces to enjoy some friend competition in the game of Texas hold 'em.
+ Poker Friends is a Jackbox-inspired multiplayer Texas Hold’em game built in Unity, designed for local social play using players’ phones as controllers. I implemented a WebSocket-based system where a browser client acts as each player while the Unity application functions as the authoritative dealer, managing card distribution, game state, and rule enforcement. The project demonstrates real-time networking, client–server architecture, and user-focused design aimed at removing physical space and equipment constraints from traditional tabletop games
 ---

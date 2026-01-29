@@ -13,5 +13,5 @@ categories:
   - css
   - html
 description: >
-  As a school project I built a website for the Non-Profit rodeo that I am on the board of. 
+  Hoot Gibson Memorial Rodeo Website is a two-page informational site created as a class project for a real nonprofit organization where I serve on the board. I wireframed the full layout in Adobe tools and then implemented the design using HTML5 and CSS, focusing on accurately translating the planned UI into a functional website. The site includes a public-facing landing page with event details and ticket access, as well as a sponsor recognition page highlighting contributors, sponsorship levels, and supported events. 
 ---

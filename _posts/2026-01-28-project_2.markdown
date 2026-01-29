@@ -11,5 +11,5 @@ client: Unity
 categories: 
  - game-dev
 description: >
- Descendants of DeWitty was slated to be a history mystery game, exploring the history of the largest African-American settlement in the Midwest formerly known as the town of DeWitty. Your job as the player is to explore history and bring back important artifacts to complete the "Museum of Cosmology".
+ Descendants of DeWitty is a narrative-driven historical mystery game centered on the real history of DeWitty, once the largest African-American settlement in the Midwest. As Lead Developer during a 1.5-year internship, I built the playable experience end-to-end in Unity, creating environments, animations, shaders, and core gameplay systems, including a custom notebook-based dialogue system and real-time environmental effects such as a flowing river shader. Although the project did not ship due to a shift in organizational priorities, the showcased build represents my solo technical and creative ownership of the game.
 ---

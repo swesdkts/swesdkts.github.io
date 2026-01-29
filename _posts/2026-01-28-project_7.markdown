@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Procedural Land Generator
+title: Procedural Terrain Generator
 modal-id: 7
 date: 2026-01-28
 img: procedurallandgenerator.png
@@ -11,5 +11,5 @@ client: Unity
 categories:
   - game-dev
 description: >
-  Procedural land generator gives the ability to define a landscape size, generates topography, and assigns textures to that topography to give a changing landscape.
+  Procedural Terrain Generator is a Unity-based system that generates dynamic landscapes by defining terrain size, producing topographical variation, and assigning textures based on elevation and surface features. Built as a focused exploration of procedural generation techniques, the project demonstrates algorithmic thinking, data-driven content creation, and an understanding of systems that scale beyond handcrafted assets. This work reflects my interest in tools and workflows that support modern game development and emergent environments.
 ---

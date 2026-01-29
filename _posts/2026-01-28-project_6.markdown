@@ -11,5 +11,5 @@ client: Unity
 categories:
   - game-dev
 description: >
-  The Nail Files is a 2D puzzle platformer made for Mini Jam 13.
+  The Nail Files is a 2D puzzle-platformer created for Mini Jam 13 under a 72-hour time constraint. I designed and implemented all gameplay systems, art assets, and sound effects using Unity and C#, focusing on tight mechanics and readable level design. The project demonstrates rapid prototyping, problem-solving under time pressure, and end-to-end ownership of a playable game
 ---

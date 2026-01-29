@@ -13,5 +13,5 @@ categories:
   - python
   - sql
 description: >
-  Weather forecasting app developed using python, SQL, and 3rd party API from the official https://api.weather.gov. Application gives weather forecasts for 14 days for the   searched area as well as it fills an SQL database with all active severe weather alerts where it will display all severe weather alerts for the state that the search is located in.
+  Weather Alert & Forecasting App is a Python-based application that integrates the official Weather.gov API to deliver 14-day forecasts and real-time severe weather alerts by location. I designed the system to ingest active alerts into a SQL database, enabling state-wide alert aggregation and historical tracking beyond typical point-based forecasts. Built as a rapid prototype, this project demonstrates my ability to quickly learn new technologies, integrate third-party APIs, and think beyond conventional app patterns to improve how critical information is surfaced to users
 ---
